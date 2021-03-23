@@ -1,8 +1,10 @@
 # TNL2K_evaluation_toolkit
 
-Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark, Xiao Wang, Xiujun shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu, 
+Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark, Xiao Wang*, Xiujun shu*, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu (* denotes equal contribution). 
 [[Paper]] 
 [[Project]] 
+
+## Abstract: 
 
 
 ## Download: 
@@ -22,3 +24,5 @@ If you find this work useful for your research, please cite the following papers
   year={2021}
 }
 ```
+
+If you have any questions about this work, please contact with me via wangxiaocvpr@foxmail.com or wangx03@pcl.ac.cn. 
