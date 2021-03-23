@@ -1,15 +1,15 @@
 # TNL2K_evaluation_toolkit
 
 Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark, Xiao Wang, Xiujun shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu, 
-[[Paper](...)] 
-[[Project](https://sites.google.com/view/langtrackbenchmark/)] 
+[[Paper]] 
+[[Project]] 
 
 
 ## Download: 
-[[TNL2K-Dataset]()] 
-[[Baseline-Tracker]()]
-[[Tracking-Results]()]
-[[Demo-Video]()]
+[[TNL2K-Dataset]] 
+[[Baseline-Tracker]]
+[[Tracking-Results]]
+[[Demo-Video](https://www.youtube.com/watch?v=7lvVDlkkff0&ab_channel=XiaoWang)]
 
 
 ## Citation:
@@ -18,7 +18,7 @@ If you find this work useful for your research, please cite the following papers
 @inproceedings{wang2021tnl2k,
   title={Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark},
   author={Xiao, Wang and Xiujun, shu and Zhipeng, Zhang and Bo, Jiang and Yaowei, Wang and Yonghong, Tian and Feng, Wu},
-  pages={---},
+  booktitle={The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2021}
 }
 ```
