@@ -11,7 +11,7 @@ Towards More Flexible and Accurate Object Tracking with Natural Language: Algori
 [[TNL2K-Dataset]] 
 [[Baseline-Tracker]]
 [[Tracking-Results]]
-[[Demo-Video](https://www.youtube.com/watch?v=7lvVDlkkff0&ab_channel=XiaoWang)]
+[[Demo Video (Youtube)](https://www.youtube.com/watch?v=7lvVDlkkff0&ab_channel=XiaoWang)]
 
 
 ## Citation:
