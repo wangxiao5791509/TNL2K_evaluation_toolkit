@@ -25,7 +25,7 @@ Tracking by natural language specification is a new rising research topic that a
       (still uploading ... please wait)
 
 
-## Tutorials: 
+## Tutorial for the Evaluaton Toolkit: 
 1. Download this github file: 
 ```bash
 git clone https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit
