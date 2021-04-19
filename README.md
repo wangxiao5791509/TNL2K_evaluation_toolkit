@@ -20,9 +20,10 @@ Tracking by natural language specification is a new rising research topic that a
 
 ## How to Download TNL2K dataset? 
 Currently, we plan to relase the dataset on the BaiduYun and Onedrive: 
+
 **1. Download from BaiduYun:**
-      **Link**: https://pan.baidu.com/s/1p7WR20szGLc9gitZOI0wkw 
-      **Code**: pclt
+
+      Link: https://pan.baidu.com/s/1p7WR20szGLc9gitZOI0wkw (Code: pclt)
       
 **2. Download from Onedrive:**
       (still uploading ... please wait)
