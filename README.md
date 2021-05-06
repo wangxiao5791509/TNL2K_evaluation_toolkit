@@ -13,6 +13,7 @@ Xiao Wang*, Xiujun Shu*, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Fe
 [[Benchmark-Results](https://stuahueducn-my.sharepoint.com/:u:/g/personal/e16101002_stu_ahu_edu_cn/EaXwUHLr01RGoNEgqAW5nXABJ1FiHap7X6zCuPJfszJlSg?e=4owRLa)]
 [[Demo Video (Youtube)](https://www.youtube.com/watch?v=7lvVDlkkff0&ab_channel=XiaoWang)]
 [[COVE](https://cove.thecvf.com/datasets/518)]
+[[中文视频](https://www.bilibili.com/video/BV1KK4y1P78d?p=2&share_medium=android&share_plat=android&share_source=WEIXIN&share_tag=s_i&timestamp=1620060361&unique_k=NM560g)]
 
 
 
