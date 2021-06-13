@@ -78,11 +78,13 @@ This code is modified based on the evaluation toolkit of [[LaSOT](https://github
 ## Citation:
 If you find this work useful for your research, please cite the following papers: 
 ```bash
-@inproceedings{wang2021tnl2k,
-  title={Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark},
-  author={Xiao, Wang and Xiujun, Shu and Zhipeng, Zhang and Bo, Jiang and Yaowei, Wang and Yonghong, Tian and Feng, Wu},
-  booktitle={The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2021}
+@InProceedings{wang2021tnl2k,
+    author    = {Wang, Xiao and Shu, Xiujun and Zhang, Zhipeng and Jiang, Bo and Wang, Yaowei and Tian, Yonghong and Wu, Feng},
+    title     = {Towards More Flexible and Accurate Object Tracking With Natural Language: Algorithms and Benchmark},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {13763-13773}
 }
 ```
 
