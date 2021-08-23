@@ -75,7 +75,7 @@ This code is modified based on the evaluation toolkit of [[LaSOT](https://github
 
 ## Citation:
 If you find this work useful for your research, please cite the following papers: 
-```bash
+```bibtex
 @InProceedings{wang2021tnl2k,
     author    = {Wang, Xiao and Shu, Xiujun and Zhang, Zhipeng and Jiang, Bo and Wang, Yaowei and Tian, Yonghong and Wu, Feng},
     title     = {Towards More Flexible and Accurate Object Tracking With Natural Language: Algorithms and Benchmark},
