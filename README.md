@@ -32,7 +32,7 @@ Currently, the dataset can be downloaded from the BaiduYun, OneDrive, or GoogleD
       Click [[here](https://stuahueducn-my.sharepoint.com/:f:/g/personal/e16101002_stuahueducn_onmicrosoft_com/EumrFFDpJOtJh_81ChK8ZjsBWuUp70EXumcLZ9-vQYgfkA?e=hP2Ns9)]
 
 **3. Download from GoogleDrive:** 
-      Click [[here](https://drive.google.com/drive/folders/1FIJrEft5laF4kZrSxF-lsrj1Uraqg6k-?usp=sharing)] 
+      Currently, we don't have enough space for the google drive. We will update this link if available. 
       
 **Note:** 
       The annotations of 12 videos in the training subset are modified for more accurate annotation. Please update these videos with the [[new annotations](https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit/tree/main/annos/revised_annotations.zip)]. 
