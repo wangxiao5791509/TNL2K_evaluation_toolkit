@@ -68,7 +68,27 @@ Evaluate_TNL2K_dataset.m
 
 
 ## Acknowledgement
-This code is modified based on the evaluation toolkit of [[LaSOT](https://github.com/HengLan/LaSOT_Evaluation_Toolkit)].
+This code is modified based on the evaluation toolkit of [[LaSOT](https://github.com/HengLan/LaSOT_Evaluation_Toolkit)]. 
+
+
+## Question and Answer 
+**Q1. What is the difference between the proposed "Tracking by natural language" and "video grounding"? ** 
+
+A1. As noted in paper [a, b], the video grounding task requires the machine to watch a video and localize the starting and ending time of the target video segment that corresponds to the given query. In contrast, our proposed tasks focus on locating the spatial location in each video frame. 
+
+[a] Gao, Jiyang, et al. "Tall: Temporal activity localization via language query." Proceedings of the IEEE international conference on computer vision. 2017. [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Gao_TALL_Temporal_Activity_ICCV_2017_paper.pdf)]
+[b] Zeng, Runhao, et al. "Dense regression network for video grounding." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zeng_Dense_Regression_Network_for_Video_Grounding_CVPR_2020_paper.pdf)]  
+
+**Q2. Does it reasonable and fair to compare the language assisted trackers with bbox initialized trackers? **
+
+A2. As mentioned in our paper, the standard visual tracking ignores the semantic information of target object, and it is hard to judge which target we human want to track if only the bounding box is provided in the first frame (for example, the player who controls the ball **v.s.** the player specified and fixed). Therefore, it will be OK to use the TNL2K for the standard evaluation of bbox based trackers. After all, it's hard to judge which one really the GT, and the initialized bbox for all trackers are fair. Actually, it will be more fair to compare the trackers under the same setting of initialization. 
+
+
+
+
+
+
+
 
 
 ## Citation:
