@@ -3,7 +3,7 @@
 Xiao Wang*, Xiujun Shu*, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu, Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark, IEEE CVPR 2021 (* denotes equal contribution). 
 [[Paper](https://arxiv.org/pdf/2103.16746.pdf)]
 [[Project](https://sites.google.com/view/langtrackbenchmark/)]
-[[Slides](https://drive.google.com/file/d/1HKJGrMw51IgS67J4ynAJpY_sk-bFpcXj/view?usp=sharing)]
+[[Slides](https://docs.google.com/presentation/d/1E5O4pM7qldazZXUOZlVINuPa-QzMSZV9/edit?usp=sharing&ouid=115202335137405692621&rtpof=true&sd=true)]
 [[TNL2K-BaiduYun (Code: pclt)](https://pan.baidu.com/s/1Joc5DqJUwGb4cGiFeh5Iug)]
 [[SOT Paper List](https://github.com/wangxiao5791509/Single_Object_Tracking_Paper_List)]
 [[Demo Video (Youtube)](https://www.youtube.com/watch?v=7lvVDlkkff0&ab_channel=XiaoWang)]
