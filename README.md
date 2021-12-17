@@ -70,6 +70,8 @@ Evaluate_TNL2K_dataset.m
 ## Acknowledgement
 This code is modified based on the evaluation toolkit of [[LaSOT](https://github.com/HengLan/LaSOT_Evaluation_Toolkit)]. 
 
+[[Language-Tracking-Paper-List](https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit/blob/main/Language_tracking_papers.md)]
+
 
 ## Question and Answer 
 **Q1. What is the difference between the proposed "Tracking by natural language" and "video grounding"?** 
