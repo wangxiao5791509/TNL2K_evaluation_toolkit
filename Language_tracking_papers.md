@@ -45,6 +45,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 Filtenborg, Maximilian, Efstratios Gavves, and Deepak Gupta. 
 arXiv preprint arXiv:2011.11721 (2020).
 [[Paper](https://arxiv.org/pdf/2011.11721.pdf)]
+[[Code](https://github.com/CMFiltenborg/lingually_constrained_tracking)] 
 
 [9] **Real-time visual object tracking with natural language description**, 
 [C]//Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision. 2020: 700-709.
