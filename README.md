@@ -12,7 +12,9 @@ Xiao Wang*, Xiujun Shu*, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Fe
 
 
 ## News: 
-* 2021.10.13      Update links for the onedrive. 
+* 2022.01.14      Update links for GoogleDrive.  
+* 2021.10.13      Update links for the onedrive.
+
 
 ## Abstract: 
 Tracking by natural language specification is a new rising research topic that aims at locating the target object in the video sequence based on its language description. Compared with traditional bounding box (BBox) based tracking, this setting guides object tracking with high-level semantic information, addresses the ambiguity of BBox, and links local and global search organically together. Those benefits may bring more flexible, robust and accurate tracking performance in practical scenarios. However, existing natural language initialized trackers are developed and compared on benchmark datasets proposed for tracking-by-BBox, which can't reflect the true power of tracking-by-language. In this work, we propose a new benchmark specifically dedicated to the tracking-by-language, including a large scale dataset, strong and diverse baseline methods. Specifically, we collect 2k video sequences (contains a total of 1,244,340 frames, 663 words) and split 1300/700 for the train/testing respectively. We densely annotate one sentence in English and corresponding bounding boxes of the target object for each video. A strong baseline method based on an adaptive local-global-search scheme is proposed for future works to compare. We believe this benchmark will greatly boost related researches on natural language guided tracking. 
@@ -29,7 +31,7 @@ Currently, the dataset can be downloaded from the BaiduYun, OneDrive, or GoogleD
       Click [[here](https://stuahueducn-my.sharepoint.com/:f:/g/personal/e16101002_stuahueducn_onmicrosoft_com/EumrFFDpJOtJh_81ChK8ZjsBWuUp70EXumcLZ9-vQYgfkA?e=hP2Ns9)]
 
 **3. Download from GoogleDrive:** 
-      Currently, we don't have enough space for the google drive. We will update this link if available. 
+      Click [[here](https://drive.google.com/drive/folders/1DMGGPIfaV6IXOoU6w1yTObpav8I3uc0D?usp=sharing)] 
       
 **Note:** 
       The annotations of 12 videos in the training subset are modified for more accurate annotation. Please update these videos with the [[new annotations](https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit/tree/main/annos/revised_annotations.zip)]. 
