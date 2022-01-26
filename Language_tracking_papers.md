@@ -52,6 +52,10 @@ arXiv preprint arXiv:2011.11721 (2020).
 Feng Q, Ablavsky V, Bai Q, et al. 
 [[Paper](http://openaccess.thecvf.com/content_WACV_2020/html/Feng_Real-time_Visual_Object_Tracking_with_Natural_Language_Description_WACV_2020_paper.html)]
 
+[10] * **WebUAV-3M: A Benchmark Unveiling the Power of Million-Scale Deep UAV Tracking**, 
+Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Yuxuan Zhang, Xiang Wan, Shiming Ge, 
+[[Paper](https://arxiv.org/pdf/2201.07425.pdf)] 
+[[Github](https://github.com/983632847/WebUAV-3M)]
 
 
 
