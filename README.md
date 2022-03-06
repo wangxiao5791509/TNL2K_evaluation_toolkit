@@ -89,6 +89,10 @@ A2. As mentioned in our paper, the standard visual tracking ignores the semantic
 
 
 
+**Q3. What can the language-based-tracking used for?**
+A3. For example, police searching for a suspect person or vehicle from a huge amount of videos.  
+
+
 
 
 
