@@ -32,7 +32,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, 2020.
 
 
 [6]. **Capsule-based Object Tracking with Natural Language Specification**, 
-ACM0-MM '21: Proceedings of the 29th ACM International Conference on MultimediaOctober 2021, 
+ACM-MM '21: Proceedings of the 29th ACM International Conference on MultimediaOctober 2021, 
 Ding Ma, Xiangqian Wu [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475349)] 
 
 [7] **Siamese Natural Language Tracker: Tracking by Natural Language Descriptions With Siamese Trackers**, 
