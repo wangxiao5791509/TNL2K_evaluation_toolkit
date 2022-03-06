@@ -67,6 +67,13 @@ Lee S, Woo T, Lee S H. [C]//Proceedings of the IEEE/CVF CVPR Workshop. 2021: 405
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Lee_SBNet_Segmentation-Based_Network_for_Natural_Language-Based_Vehicle_Search_CVPRW_2021_paper.pdf)]
 [[Code](https://github.com/lsrock1/nlp_search)]
 
+[13] **Spatio-temporal person retrieval via natural language queries**[C] 
+Yamaguchi M, Saito K, Ushiku Y, et al. //Proceedings of the IEEE International Conference on Computer Vision. 2017: 1453-1462.
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Yamaguchi_Spatio-Temporal_Person_Retrieval_ICCV_2017_paper.pdf)] 
+[[project](https://www.mi.t.u-tokyo.ac.jp/projects/person_search)] 
+
+[14] 
+
 
 
 
