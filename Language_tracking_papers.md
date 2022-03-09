@@ -81,7 +81,22 @@ Chen Z, Ma L, Luo W, et al. [C]//Proceedings of the 57th Annual Meeting of the A
 [[Paper](https://arxiv.org/pdf/1906.02549.pdf)]
 [[Dataset & Code](https://github.com/zfchenUnique/WSSTG)]
  
+[16] **Referring to Objects in Videos Using Spatio-Temporal Identifying Descriptions**[C]
+Wiriyathammabhum P, Shrivastava A, Morariu V, et al. //Proceedings of the Second Workshop on Shortcomings in Vision and Language. 2019: 14-25. 
+[[Paper](https://arxiv.org/pdf/1904.03885.pdf)] 
 
+[17] **Stvgbert: A visual-linguistic transformer based framework for spatio-temporal video grounding**[C]
+Su R, Yu Q, Xu D. //Proceedings of the IEEE/CVF International Conference on Computer Vision. 2021: 1533-1542. 
+[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Su_STVGBert_A_Visual-Linguistic_Transformer_Based_Framework_for_Spatio-Temporal_Video_Grounding_ICCV_2021_paper.pdf)] 
+
+[18] **Connecting language and vision for natural language-based vehicle retrieval**[C]
+Bai S, Zheng Z, Wang X, et al. //Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021: 4034-4043. 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021W/AICity/papers/Bai_Connecting_Language_and_Vision_for_Natural_Language-Based_Vehicle_Retrieval_CVPRW_2021_paper.pdf)] 
+[[Code](https://github.com/ShuaiBai623/AIC2021-T5-CLV)]
+
+[19] "**Semantics-aware spatial-temporal binaries for cross-modal video retrieval**." 
+Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
+[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9351755)]
 
 
 
