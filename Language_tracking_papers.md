@@ -76,7 +76,10 @@ Yamaguchi M, Saito K, Ushiku Y, et al. //Proceedings of the IEEE International C
 Fan H, Yang Y. //Proceedings of the AAAI Conference on Artificial Intelligence. 2020, 34(07): 10754-10761.
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/6704/6558)] 
 
-
+[15] **Weakly-Supervised Spatio-Temporally Grounding Natural Sentence in Video**, 
+Chen Z, Ma L, Luo W, et al. [C]//Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. 2019: 1884-1894. 
+[[Paper](https://arxiv.org/pdf/1906.02549.pdf)]
+[[Dataset & Code](https://github.com/zfchenUnique/WSSTG)]
  
 
 
