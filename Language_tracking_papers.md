@@ -72,8 +72,12 @@ Yamaguchi M, Saito K, Ushiku Y, et al. //Proceedings of the IEEE International C
 [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Yamaguchi_Spatio-Temporal_Person_Retrieval_ICCV_2017_paper.pdf)] 
 [[project](https://www.mi.t.u-tokyo.ac.jp/projects/person_search)] 
 
-[14] 
+[14] **Person tube retrieval via language description**[C]
+Fan H, Yang Y. //Proceedings of the AAAI Conference on Artificial Intelligence. 2020, 34(07): 10754-10761.
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/6704/6558)] 
 
+
+ 
 
 
 
