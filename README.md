@@ -12,6 +12,7 @@ Xiao Wang*, Xiujun Shu*, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Fe
 
 
 ## News: 
+* 2022.06.17      Update the language description for video **INF_womanpink** [[Link](https://drive.google.com/file/d/1J7UaTLkwpDIlkkQ09egBtPZKPYUAkVAP/view?usp=sharing)]
 * 2022.04.17      Update the damaged image on BaiduYun: test_015_Sord_video_Q01_done\00000492.png  [[link](https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit/blob/main/00000492.png)] 
 * 2022.01.14      Update links for GoogleDrive.  
 * 2021.10.13      Update links for the onedrive.
