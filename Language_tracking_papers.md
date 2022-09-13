@@ -105,6 +105,9 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
 
 [22] Li, Yihao, et al. "**Cross-Modal Target Retrieval for Tracking by Natural Language.**" Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/papers/Li_Cross-Modal_Target_Retrieval_for_Tracking_by_Natural_Language_CVPRW_2022_paper.pdf)]
 
+[23] **BAPO: A Large-Scale Multimodal Corpus for Ball Possession Prediction in American Football Games**, Ziruo Yi, Eduardo Blanco, Heng Fan, Mark V. Albert, 2022 IEEE 5th International Conference on Multimedia Information Processing and Retrieval (MIPR)
+ [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9874586)] 
+
 
 
 
