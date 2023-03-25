@@ -109,7 +109,11 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9874586)]  
  
 [24] Zhao, Haojie, et al. "**Transformer Vision-Language Tracking via Proxy Token Guided Cross-Modal Fusion**." Pattern Recognition Letters (2023).  
-[[Paper](https://www.sciencedirect.com/science/article/pii/S0167865523000545)]
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0167865523000545)] 
+
+[25] **Joint Visual Grounding and Tracking with Natural Language Specification**, Li Zhou, Zikun Zhou, Kaige Mao, and Zhenyu He 
+[[Paper](https://arxiv.org/pdf/2303.12027.pdf)]
+[[Code](https://github.com/lizhou-cs/JointNLT)]
 
 
 
