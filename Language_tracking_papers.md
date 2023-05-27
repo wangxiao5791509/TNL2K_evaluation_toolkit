@@ -115,6 +115,10 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
 [[Paper](https://arxiv.org/pdf/2303.12027.pdf)]
 [[Code](https://github.com/lizhou-cs/JointNLT)]
 
+[26] **Type-to-Track: Retrieve Any Object via Prompt-based Tracking**, Pha Nguyen, Kha Gia Quach, Kris Kitani, Khoa Luu 
+[[Paper](https://arxiv.org/pdf/2305.13495.pdf)]
+
+[27] 
 
 
 
