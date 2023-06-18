@@ -118,7 +118,9 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
 [26] **Type-to-Track: Retrieve Any Object via Prompt-based Tracking**, Pha Nguyen, Kha Gia Quach, Kris Kitani, Khoa Luu 
 [[Paper](https://arxiv.org/pdf/2305.13495.pdf)]
 
-[27] 
+[27] "**One-stream Vision-Language Memory Network for Object Tracking**," H. Zhang, J. Wang, J. Zhang, T. Zhang and B. Zhong,  in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2023.3285441. [[Paper](https://ieeexplore.ieee.org/abstract/document/10149530)] 
+
+[28] 
 
 
 
