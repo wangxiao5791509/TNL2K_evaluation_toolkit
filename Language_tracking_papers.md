@@ -123,7 +123,7 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
 [28] **All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment**, Chunhui Zhang, Xin Sun, Li Liu, Member, IEEE, Yiqian Yang, Qiong Liu, Xi Zhou, Yanfeng Wang 
 [[Paper](https://arxiv.org/pdf/2307.03373.pdf)] 
 
-[29] **Towards Unified Token Learning for Vision-Language Tracking**, Yaozong Zheng, Bineng Zhong, Qihua Liang, Guorong Li, Rongrong Ji, Xianxian Li, IEEE TCSVT 2023, [[Paper]()] 
+[29] **Towards Unified Token Learning for Vision-Language Tracking**, Yaozong Zheng, Bineng Zhong, Qihua Liang, Guorong Li, Rongrong Ji, Xianxian Li, IEEE TCSVT 2023, [[Paper](https://ieeexplore.ieee.org/abstract/document/10208210)] 
 
 [30] 
 
