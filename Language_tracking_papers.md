@@ -116,16 +116,18 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
 [[Code](https://github.com/lizhou-cs/JointNLT)]
 
 [26] **Type-to-Track: Retrieve Any Object via Prompt-based Tracking**, Pha Nguyen, Kha Gia Quach, Kris Kitani, Khoa Luu 
-[[Paper](https://arxiv.org/pdf/2305.13495.pdf)]
+[[Paper](https://arxiv.org/pdf/2305.13495.pdf)] 
 
-[27] "**One-stream Vision-Language Memory Network for Object Tracking**," H. Zhang, J. Wang, J. Zhang, T. Zhang and B. Zhong,  in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2023.3285441. [[Paper](https://ieeexplore.ieee.org/abstract/document/10149530)] 
+[27] [IEE TMM] "**One-stream Vision-Language Memory Network for Object Tracking**," H. Zhang, J. Wang, J. Zhang, T. Zhang and B. Zhong,  in IEEE Transactions on Multimedia, doi: 10.1109/TMM.2023.3285441. [[Paper](https://ieeexplore.ieee.org/abstract/document/10149530)] 
 
-[28] **All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment**, Chunhui Zhang, Xin Sun, Li Liu, Member, IEEE, Yiqian Yang, Qiong Liu, Xi Zhou, Yanfeng Wang 
+[28] [ACM MM-2023] **All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment**, Chunhui Zhang, Xin Sun, Li Liu, Member, IEEE, Yiqian Yang, Qiong Liu, Xi Zhou, Yanfeng Wang 
 [[Paper](https://arxiv.org/pdf/2307.03373.pdf)] 
 
-[29] **Towards Unified Token Learning for Vision-Language Tracking**, Yaozong Zheng, Bineng Zhong, Qihua Liang, Guorong Li, Rongrong Ji, Xianxian Li, IEEE TCSVT 2023, [[Paper](https://ieeexplore.ieee.org/abstract/document/10208210)] 
+[29] [IEEE TCSVT 2023] **Towards Unified Token Learning for Vision-Language Tracking**, Yaozong Zheng, Bineng Zhong, Qihua Liang, Guorong Li, Rongrong Ji, Xianxian Li, IEEE TCSVT 2023, [[Paper](https://ieeexplore.ieee.org/abstract/document/10208210)] 
 
-[30] 
+[30] [ICCV-2023] **CiteTracker: Correlating Image and Text for Visual Tracking**, Xin Li, Yuqing Huang, Zhenyu He, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang [[Paper](https://arxiv.org/pdf/2308.11322.pdf)] [[Code](https://github.com/NorahGreen/CiteTracker)] 
+
+[31] 
 
 
 
