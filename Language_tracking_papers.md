@@ -101,7 +101,9 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
 
 [20] Song, Sijie, et al. "**Co-Grounding Networks with Semantic Attention for Referring Expression Comprehension in Videos.**" Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2021. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Co-Grounding_Networks_With_Semantic_Attention_for_Referring_Expression_Comprehension_in_CVPR_2021_paper.pdf)] [[Code](https://github.com/SijieSong/CVPR21-Cogrounding_semantic_attention)]
 
-[21] Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing, **Divert More Attention to Vision-Language Tracking**, [[arXiv](https://arxiv.org/abs/2207.01076)] 
+[21] [NeuIPS-2022] **Divert more attention to vision-language tracking**. Guo, M., Zhang, Z., Fan, H., & Jing, L. (2022).  Advances in Neural Information Processing Systems, 35, 4446-4460., 
+[[arXiv](https://arxiv.org/abs/2207.01076)] 
+[[Code](https://github.com/JudasDie/SOTS)]
 
 [22] Li, Yihao, et al. "**Cross-Modal Target Retrieval for Tracking by Natural Language.**" Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022. [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/papers/Li_Cross-Modal_Target_Retrieval_for_Tracking_by_Natural_Language_CVPRW_2022_paper.pdf)]
 
@@ -127,7 +129,9 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
 
 [30] [ICCV-2023] **CiteTracker: Correlating Image and Text for Visual Tracking**, Xin Li, Yuqing Huang, Zhenyu He, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang [[Paper](https://arxiv.org/pdf/2308.11322.pdf)] [[Code](https://github.com/NorahGreen/CiteTracker)] 
 
-[31] 
+[31] [arXiv-2023] **Divert More Attention to Vision-Language Object Tracking**. Guo, M., Zhang, Z., Jing, L., Ling, H., & Fan, H. (2023).  arXiv preprint arXiv:2307.10046. [[Paper](https://arxiv.org/pdf/2307.10046.pdf)] 
+
+
 
 
 
