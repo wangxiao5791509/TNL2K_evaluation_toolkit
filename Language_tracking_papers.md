@@ -108,7 +108,7 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
 [23] **BAPO: A Large-Scale Multimodal Corpus for Ball Possession Prediction in American Football Games**, Ziruo Yi, Eduardo Blanco, Heng Fan, Mark V. Albert, 2022 IEEE 5th International Conference on Multimedia Information Processing and Retrieval (MIPR)
  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9874586)]  
  
-[24] Zhao, Haojie, et al. "**Transformer Vision-Language Tracking via Proxy Token Guided Cross-Modal Fusion**." Pattern Recognition Letters (2023).  
+[24] [PRL-2023] **Transformer vision-language tracking via proxy token guided cross-modal fusion. Pattern Recognition Letters**, Zhao, H., Wang, X., Wang, D., Lu, H., & Ruan, X. (2023). 168, 10-16.
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0167865523000545)] 
 
 [25] [CVPR-2023] **Joint Visual Grounding and Tracking with Natural Language Specification.** Zhou, L., Zhou, Z., Mao, K., & He, Z. (2023).  In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 23151-23160).  
