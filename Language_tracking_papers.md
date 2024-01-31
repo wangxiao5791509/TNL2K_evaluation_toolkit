@@ -131,9 +131,9 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
 
 [31] [arXiv-2023] **Divert More Attention to Vision-Language Object Tracking**. Guo, M., Zhang, Z., Jing, L., Ling, H., & Fan, H. (2023).  arXiv preprint arXiv:2307.10046. [[Paper](https://arxiv.org/pdf/2307.10046.pdf)] 
 
+[32] [AAAI-2024] **Unifying Visual and Vision-Language Tracking via Contrastive Learning**, Yinchao Ma1, Yuyang Tang1, Wenfei Yang1, Tianzhu Zhang1*, Jinpeng Zhang2, Mengxue Kang [[Paper](https://arxiv.org/pdf/2401.11228.pdf)] [[Code](https://github.com/OpenSpaceAI/UVLTrack)]
 
-
-
+[33] 
 
 
 
