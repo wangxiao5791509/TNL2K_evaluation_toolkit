@@ -133,7 +133,8 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
 
 [32] [AAAI-2024] **Unifying Visual and Vision-Language Tracking via Contrastive Learning**, Yinchao Ma1, Yuyang Tang1, Wenfei Yang1, Tianzhu Zhang1*, Jinpeng Zhang2, Mengxue Kang [[Paper](https://arxiv.org/pdf/2401.11228.pdf)] [[Code](https://github.com/OpenSpaceAI/UVLTrack)]
 
-[33] 
+[33] **VastTrack: Vast Category Visual Object Tracking**, Liang Peng, Junyuan Gao, Xinran Liu, Weihong Li, Shaohua Dong, Zhipeng Zhang, Heng Fan, Libo Zhang
+  [[Paper](https://arxiv.org/abs/2403.03493)] 
 
 
 
