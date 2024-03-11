@@ -136,6 +136,9 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
 [33] **VastTrack: Vast Category Visual Object Tracking**, Liang Peng, Junyuan Gao, Xinran Liu, Weihong Li, Shaohua Dong, Zhipeng Zhang, Heng Fan, Libo Zhang
   [[Paper](https://arxiv.org/abs/2403.03493)] 
 
+[34] **Beyond MOT: Semantic Multi-Object Tracking**, Yunhao Li, Hao Wang, Qin Li, Xue Ma, Jiali Yao, Shaohua Dong, Heng Fan, Libo Zhang 
+ [[Paper](https://arxiv.org/abs/2403.05021)] 
+
 
 
 
