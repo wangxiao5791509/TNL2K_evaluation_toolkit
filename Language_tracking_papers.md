@@ -139,6 +139,9 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
 [34] **Beyond MOT: Semantic Multi-Object Tracking**, Yunhao Li, Hao Wang, Qin Li, Xue Ma, Jiali Yao, Shaohua Dong, Heng Fan, Libo Zhang 
  [[Paper](https://arxiv.org/abs/2403.05021)] 
 
+[35] [IEEE TCSVT] G. Zhang, B. Zhong, Q. Liang, Z. Mo, N. Li and S. Song, "**One-Stream Stepwise Decreasing for Vision-Language Tracking**," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2024.3395352. 
+ [[Paper](https://ieeexplore.ieee.org/abstract/document/10510485)] 
+
 
 
 
