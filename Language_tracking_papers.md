@@ -142,7 +142,9 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
 [35] [IEEE TCSVT] G. Zhang, B. Zhong, Q. Liang, Z. Mo, N. Li and S. Song, "**One-Stream Stepwise Decreasing for Vision-Language Tracking**," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2024.3395352. 
  [[Paper](https://ieeexplore.ieee.org/abstract/document/10510485)] 
 
-
+[36] [CVPR Workshop] **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**, arXiv:2405.12139, CVPR Workshop 2024, Oral Presentation, Xuchen Li, Xiaokun Feng, Shiyu Hu, Meiqi Wu, Dailing Zhang, Jing Zhang, Kaiqi Huang 
+ [[Paper](https://arxiv.org/abs/2405.12139)] 
+ 
 
 
 
