@@ -150,8 +150,9 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
  [[Paper](https://arxiv.org/abs/2405.19818)] 
  [[Code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)] 
 
+[38] **Context-Aware Integration of Language and Visual References for Natural Language Tracking**, Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, Jiming Chen; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 19208-19217
 
-
+[39] 
 
 
 
