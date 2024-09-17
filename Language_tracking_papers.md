@@ -152,7 +152,10 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
 
 [38] **Context-Aware Integration of Language and Visual References for Natural Language Tracking**, Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, Jiming Chen; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 19208-19217
 
-[39] 
+[39] **Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark**, 
+ Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang [[Paper](https://arxiv.org/abs/2409.08887)] 
+
+
 
 
 
