@@ -155,6 +155,8 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
 [39] **Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark**, 
  Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang [[Paper](https://arxiv.org/abs/2409.08887)] 
 
+[40] [ECCV 2024] **SemTrack: A Large-scale Dataset for Semantic Tracking in the Wild**, Pengfei Wang1,⋆ , Xiaofei Hui1,2,⋆ , Jing Wu1,⋆ , Zile Yang1, Kian Eng Ong1,⋆ , Xinge Zhao1, Beijia Lu1, Dezhao Huang3, Evan Ling3, Weiling Chen4,‡, eng Teck Ma3, Minhoe Hur3, and Jun Liu 
+[[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03555.pdf)] 
 
 
 
