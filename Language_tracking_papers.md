@@ -161,7 +161,8 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
 [41] **ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model**, 
  [[Paper](https://arxiv.org/pdf/2411.01756)] 
 
-
+[42] [arXiv:2411.13183] **ClickTrack: Towards Real-time Interactive Single Object Tracking**, 
+[[Paper](https://arxiv.org/pdf/2411.13183)] 
 
 
 
