@@ -164,6 +164,13 @@ Qi, Mengshi, et al. IEEE Transactions on Image Processing 30 (2021): 2989-3004.
 [42] [arXiv:2411.13183] **ClickTrack: Towards Real-time Interactive Single Object Tracking**, 
 [[Paper](https://arxiv.org/pdf/2411.13183)] 
 
+[43] **How Texts Help? A Fine-grained Evaluation to Reveal the Role of Language in Vision-Language Tracking**, 
+Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang  
+ [[Paper](https://arxiv.org/abs/2411.15600)] 
+
+[44] **MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking**, 
+Xinqi Liu, Li Zhou, Zikun Zhou, Jianqiu Chen, Zhenyu He
+[[Paper](https://arxiv.org/abs/2411.15459)] 
 
 
 
