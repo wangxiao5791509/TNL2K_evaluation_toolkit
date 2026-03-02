@@ -172,9 +172,11 @@ Xuchen Li, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Hu
 Xinqi Liu, Li Zhou, Zikun Zhou, Jianqiu Chen, Zhenyu He
 [[Paper](https://arxiv.org/abs/2411.15459)] 
 
+[45] **GLAD: Generative Language-Assisted Visual Tracking for Low-Semantic Templates**, International Journal of Computer Vision 2026, 
+ Xingyu Luo, Yidong Cai, Jie Liu, Jie Tang, Gangshan Wu & Limin Wang  
+ [[Paper](https://link.springer.com/article/10.1007/s11263-026-02774-7)] 
 
-
-
+[46] 
 
 
 
