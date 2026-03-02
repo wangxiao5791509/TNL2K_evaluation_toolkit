@@ -176,8 +176,10 @@ Xinqi Liu, Li Zhou, Zikun Zhou, Jianqiu Chen, Zhenyu He
  Xingyu Luo, Yidong Cai, Jie Liu, Jie Tang, Gangshan Wu & Limin Wang  
  [[Paper](https://link.springer.com/article/10.1007/s11263-026-02774-7)] 
 
-[46] 
+[46] [CVPR2026] **RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation**, 
+ [[Github](https://github.com/IdolLab/RAGTrack)] 
 
+[47] 
 
 
 
